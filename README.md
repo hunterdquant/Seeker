@@ -1,2 +1,2 @@
 # Seeker
-A file browser for Unity intended for loading non-project local files.
+A VR file browser for Unity intended for loading non-project local files.
